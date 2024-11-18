@@ -1,4 +1,6 @@
 ## Intro
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FDeepFaceLab_MacOS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FDeepFaceLab_MacOS?ref=badge_shield)
+
 
 This project provides scripts inspired by [DeepFaceLab_Linux](https://github.com/lbfs/DeepFaceLab_Linux) to setup and run [DeepFaceLab](https://github.com/iperov/DeepFaceLab) on MacOS.
 
@@ -31,3 +33,7 @@ Now you can put your `data_src.mp4` and `data_dst.mp4` files into the `workspace
 ## Tutorials and docs
 
 See [DeepFaceLab](https://github.com/iperov/DeepFaceLab) project for links to guides and tutorials.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FDeepFaceLab_MacOS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FDeepFaceLab_MacOS?ref=badge_large)
